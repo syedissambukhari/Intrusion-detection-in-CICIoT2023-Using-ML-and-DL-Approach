@@ -29,8 +29,8 @@ To run this project, you'll need to install the required Python libraries. You c
 pip install -r requirements.txt
 ```
 ## Key Dependencies:
-> Scikit-learn
-> TensorFlow/Keras
-> Pandas
-> NumPy
-> Matplotlib
+- Scikit-learn
+- TensorFlow/Keras
+- Pandas
+- NumPy
+- Matplotlib
