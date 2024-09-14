@@ -13,15 +13,13 @@ The dataset used is **CICIoT2023**, which contains a variety of IoT-related netw
 ## Models Used
 
 ### 1. Machine Learning Models:
-- **Random Forest**
 - **Gradient Boosting**
-- **Support Vector Machine (SVM)**
-- **K-Nearest Neighbors (KNN)**
+- **Logistic Regression**
+- **AdaBoost Classifier**
 
 ### 2. Deep Learning Models:
-- **Artificial Neural Networks (ANN)**
-- **Long Short-Term Memory (LSTM)**
-- **Convolutional Neural Networks (CNN)**
+- **Multilayer Perceptron  (MLP)**
+
 
 ## Requirements
 
